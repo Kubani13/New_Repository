@@ -1,0 +1,13 @@
+body{
+  background: #001d3d;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  margin: auto;
+  border-left: 50px;
+  border-right: 50px;
+  border-bottom: 50px;
+  border-top: 0px;
+  border-color: #00f5d4;
+  border-style: solid;
+}
